@@ -35,17 +35,9 @@ fi
 log "INFO: Running apt update..."
 DEBIAN_FRONTEND=noninteractive apt update -y >> "$LOG_FILE" 2>&1
 if [ $? -ne 0 ]; then
- log "ERROR: 'apt upgrade' failed."
+ log "ERROR: 'apt update' failed."
  exit 3
 
-fi
-
-# Upgrade packages
-log "INFO: Running apt upgrade..."
-DEBIAN_FRONTEND=noninteractive apt upgrade -y  >> "$LOG_FILE" 2>&1
-if [ $? -ne 0 ]; then
-    log "ERROR: 'apt upgrade' failed"
-    exit 4
 fi
 
 # Clean unused packages

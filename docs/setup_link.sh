@@ -1,0 +1,1 @@
+/home/Sammy/myproject/logs/setup.sh

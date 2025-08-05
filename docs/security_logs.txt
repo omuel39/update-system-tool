@@ -1,0 +1,15 @@
+2025-07-11T17:40:09.015758+00:00 Sammy gnome-keyring-daemon[5968]: The PKCS#11 component was already initialized
+2025-07-11T17:40:09.016449+00:00 Sammy gnome-keyring-daemon[6152]: discover_other_daemon: 1
+2025-07-11T17:40:17.306268+00:00 Sammy polkitd[629]: Registered Authentication Agent for unix-session:8 (system bus name :1.202 [/usr/bin/gnome-shell], object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_US.UTF-8)
+2025-07-11T17:40:20.887739+00:00 Sammy gdm-launch-environment]: pam_unix(gdm-launch-environment:session): session closed for user gdm
+2025-07-11T17:40:20.965439+00:00 Sammy systemd-logind[662]: Session c3 logged out. Waiting for processes to exit.
+2025-07-11T17:40:21.126422+00:00 Sammy systemd-logind[662]: Removed session c3.
+2025-07-11T17:40:21.157054+00:00 Sammy polkitd[629]: Unregistered Authentication Agent for unix-session:c3 (system bus name :1.170, object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_US.UTF-8) (disconnected from bus)
+2025-07-11T17:41:19.416372+00:00 Sammy pkexec: pam_unix(polkit-1:session): session opened for user root(uid=0) by Sammy(uid=1000)
+2025-07-11T17:41:19.417927+00:00 Sammy pkexec[7032]: Sammy: Executing command [USER=root] [TTY=unknown] [CWD=/home/Sammy] [COMMAND=/usr/lib/update-notifier/package-system-locked]
+2025-07-11T17:45:01.728267+00:00 Sammy CRON[7054]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-07-11T17:45:01.741106+00:00 Sammy CRON[7054]: pam_unix(cron:session): session closed for user root
+2025-07-11T17:48:31.007068+00:00 Sammy gdm-password]: gkr-pam: unlocked login keyring
+2025-07-11T17:55:01.757939+00:00 Sammy CRON[7164]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-07-11T17:55:01.765154+00:00 Sammy CRON[7164]: pam_unix(cron:session): session closed for user root
+2025-07-11T17:56:03.237524+00:00 Sammy sudo:    Sammy : TTY=pts/0 ; PWD=/home/Sammy ; USER=root ; COMMAND=/usr/bin/tail -n 15 /var/log/auth.log

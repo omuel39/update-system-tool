@@ -1,0 +1,10 @@
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           197M  1.5M  196M   1% /run
+/dev/sda2        25G  5.7G   18G  25% /
+tmpfs           984M     0  984M   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           197M  128K  197M   1% /run/user/1000
+               total        used        free      shared  buff/cache   available
+Mem:           1.9Gi       959Mi       268Mi        32Mi       921Mi       1.0Gi
+Swap:             0B          0B          0B
+ 16:43:53 up  2:48,  2 users,  load average: 0.08, 0.07, 0.02

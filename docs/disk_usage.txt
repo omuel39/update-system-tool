@@ -1,0 +1,10 @@
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           197M  1.5M  196M   1% /run
+/dev/sda2        25G  6.6G   17G  29% /
+tmpfs           984M     0  984M   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           197M  120K  197M   1% /run/user/1000
+               total        used        free      shared  buff/cache   available
+Mem:           1.9Gi       965Mi       159Mi        32Mi       1.0Gi       1.0Gi
+Swap:             0B          0B          0B
+100K	/home/Sammy/myproject

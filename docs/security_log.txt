@@ -1,0 +1,15 @@
+2025-07-11T17:45:01.728267+00:00 Sammy CRON[7054]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-07-11T17:45:01.741106+00:00 Sammy CRON[7054]: pam_unix(cron:session): session closed for user root
+2025-07-11T17:48:31.007068+00:00 Sammy gdm-password]: gkr-pam: unlocked login keyring
+2025-07-11T17:55:01.757939+00:00 Sammy CRON[7164]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-07-11T17:55:01.765154+00:00 Sammy CRON[7164]: pam_unix(cron:session): session closed for user root
+2025-07-11T17:56:03.237524+00:00 Sammy sudo:    Sammy : TTY=pts/0 ; PWD=/home/Sammy ; USER=root ; COMMAND=/usr/bin/tail -n 15 /var/log/auth.log
+2025-07-11T17:56:03.247110+00:00 Sammy sudo: pam_unix(sudo:session): session opened for user root(uid=0) by Sammy(uid=1000)
+2025-07-11T17:56:03.247360+00:00 Sammy sudo: pam_unix(sudo:session): session closed for user root
+2025-07-11T18:05:01.780190+00:00 Sammy CRON[7367]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-07-11T18:05:01.791508+00:00 Sammy CRON[7367]: pam_unix(cron:session): session closed for user root
+2025-07-11T18:10:58.199359+00:00 Sammy sudo:    Sammy : TTY=pts/0 ; PWD=/home/Sammy ; USER=root ; COMMAND=/usr/bin/ls /var/log/auth.log
+2025-07-11T18:10:58.208634+00:00 Sammy sudo: pam_unix(sudo:session): session opened for user root(uid=0) by Sammy(uid=1000)
+2025-07-11T18:10:58.208750+00:00 Sammy sudo: pam_unix(sudo:session): session closed for user root
+2025-07-11T18:12:29.159872+00:00 Sammy sudo:    Sammy : TTY=pts/0 ; PWD=/home/Sammy ; USER=root ; COMMAND=/usr/bin/tail -n 15 /var/log/auth.log
+2025-07-11T18:12:29.162973+00:00 Sammy sudo: pam_unix(sudo:session): session opened for user root(uid=0) by Sammy(uid=1000)

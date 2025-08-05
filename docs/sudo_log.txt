@@ -1,0 +1,84 @@
+2025-06-29T07:28:09.504498+00:00 Sammy sudo:    Sammy : TTY=pts/0 ; PWD=/home/Sammy ; USER=root ; COMMAND=/usr/bin/apt install
+2025-06-29T07:28:09.512943+00:00 Sammy sudo: pam_unix(sudo:session): session opened for user root(uid=0) by Sammy(uid=1000)
+2025-06-29T07:28:10.930653+00:00 Sammy sudo: pam_unix(sudo:session): session closed for user root
+2025-06-29T07:28:36.450719+00:00 Sammy sudo:    Sammy : TTY=pts/0 ; PWD=/home/Sammy ; USER=root ; COMMAND=/usr/bin/apt update install
+2025-06-29T07:28:36.468522+00:00 Sammy sudo: pam_unix(sudo:session): session opened for user root(uid=0) by Sammy(uid=1000)
+2025-06-29T07:28:36.481896+00:00 Sammy sudo: pam_unix(sudo:session): session closed for user root
+2025-06-29T07:28:46.646748+00:00 Sammy sudo:    Sammy : TTY=pts/0 ; PWD=/home/Sammy ; USER=root ; COMMAND=/usr/bin/apt update
+2025-06-29T07:28:46.647442+00:00 Sammy sudo: pam_unix(sudo:session): session opened for user root(uid=0) by Sammy(uid=1000)
+2025-06-29T07:32:01.690729+00:00 Sammy sudo: pam_unix(sudo:session): session closed for user root
+2025-06-29T07:54:01.569527+00:00 Sammy sudo:    Sammy : TTY=pts/0 ; PWD=/home/Sammy ; USER=root ; COMMAND=/usr/bin/apt install
+2025-06-29T07:54:01.572399+00:00 Sammy sudo: pam_unix(sudo:session): session opened for user root(uid=0) by Sammy(uid=1000)
+2025-06-29T07:54:02.967007+00:00 Sammy sudo: pam_unix(sudo:session): session closed for user root
+2025-06-29T07:58:39.815784+00:00 Sammy sudo:    Sammy : TTY=pts/0 ; PWD=/home/Sammy ; USER=root ; COMMAND=/usr/bin/apt install nettools
+2025-06-29T07:58:39.819144+00:00 Sammy sudo: pam_unix(sudo:session): session opened for user root(uid=0) by Sammy(uid=1000)
+2025-06-29T07:58:40.807698+00:00 Sammy sudo: pam_unix(sudo:session): session closed for user root
+2025-06-29T07:58:45.612397+00:00 Sammy sudo:    Sammy : TTY=pts/0 ; PWD=/home/Sammy ; USER=root ; COMMAND=/usr/bin/apt install nettools
+2025-06-29T07:58:45.619470+00:00 Sammy sudo: pam_unix(sudo:session): session opened for user root(uid=0) by Sammy(uid=1000)
+2025-06-29T07:58:46.728377+00:00 Sammy sudo: pam_unix(sudo:session): session closed for user root
+2025-06-29T08:07:27.188667+00:00 Sammy sudo:    Sammy : TTY=pts/0 ; PWD=/home/Sammy ; USER=root ; COMMAND=/usr/bin/apt install nettools
+2025-06-29T08:07:27.192613+00:00 Sammy sudo: pam_unix(sudo:session): session opened for user root(uid=0) by Sammy(uid=1000)
+2025-06-29T08:07:28.215150+00:00 Sammy sudo: pam_unix(sudo:session): session closed for user root
+2025-06-29T08:08:26.553521+00:00 Sammy sudo:    Sammy : TTY=pts/0 ; PWD=/home/Sammy ; USER=root ; COMMAND=/usr/bin/apt install nettools
+2025-06-29T08:08:26.557163+00:00 Sammy sudo: pam_unix(sudo:session): session opened for user root(uid=0) by Sammy(uid=1000)
+2025-06-29T08:08:27.590727+00:00 Sammy sudo: pam_unix(sudo:session): session closed for user root
+2025-06-29T08:15:34.018543+00:00 Sammy sudo:    Sammy : TTY=pts/0 ; PWD=/home/Sammy ; USER=root ; COMMAND=/usr/bin/apt install curl
+2025-06-29T08:15:34.023768+00:00 Sammy sudo: pam_unix(sudo:session): session opened for user root(uid=0) by Sammy(uid=1000)
+2025-06-29T08:15:35.799466+00:00 Sammy sudo: pam_unix(sudo:session): session closed for user root
+2025-06-29T09:08:04.813994+00:00 Sammy sudo:    Sammy : TTY=pts/0 ; PWD=/home/Sammy ; USER=root ; COMMAND=/usr/bin/apt install openssh-server
+2025-06-29T09:08:04.817121+00:00 Sammy sudo: pam_unix(sudo:session): session opened for user root(uid=0) by Sammy(uid=1000)
+2025-06-29T09:08:06.376062+00:00 Sammy sudo: pam_unix(sudo:session): session closed for user root
+2025-07-08T13:22:41.032939+00:00 Sammy sudo:    Sammy : TTY=pts/0 ; PWD=/home/Sammy ; USER=root ; COMMAND=/usr/bin/apt install curl
+2025-07-08T13:22:41.034772+00:00 Sammy sudo: pam_unix(sudo:session): session opened for user root(uid=0) by Sammy(uid=1000)
+2025-07-08T13:22:42.302578+00:00 Sammy sudo: pam_unix(sudo:session): session closed for user root
+2025-07-08T13:33:22.268499+00:00 Sammy sudo:    Sammy : TTY=pts/0 ; PWD=/home/Sammy ; USER=root ; COMMAND=/usr/bin/systemctl status ssh
+2025-07-08T13:33:22.278401+00:00 Sammy sudo: pam_unix(sudo:session): session opened for user root(uid=0) by Sammy(uid=1000)
+2025-07-08T13:33:27.116282+00:00 Sammy sudo: pam_unix(sudo:session): session closed for user root
+2025-07-08T13:35:14.242062+00:00 Sammy sudo:    Sammy : TTY=pts/0 ; PWD=/home/Sammy ; USER=root ; COMMAND=/usr/bin/systemctl enable
+2025-07-08T13:35:14.244172+00:00 Sammy sudo: pam_unix(sudo:session): session opened for user root(uid=0) by Sammy(uid=1000)
+2025-07-08T13:35:14.255885+00:00 Sammy sudo: pam_unix(sudo:session): session closed for user root
+2025-07-08T13:35:54.915674+00:00 Sammy sudo:    Sammy : TTY=pts/0 ; PWD=/home/Sammy ; USER=root ; COMMAND=/usr/bin/systemctl enable
+2025-07-08T13:35:54.918448+00:00 Sammy sudo: pam_unix(sudo:session): session opened for user root(uid=0) by Sammy(uid=1000)
+2025-07-08T13:35:54.932922+00:00 Sammy sudo: pam_unix(sudo:session): session closed for user root
+2025-07-08T13:57:30.761513+00:00 Sammy sudo:    Sammy : TTY=pts/0 ; PWD=/home/Sammy ; USER=root ; COMMAND=/usr/bin/apt install
+2025-07-08T13:57:30.771290+00:00 Sammy sudo: pam_unix(sudo:session): session opened for user root(uid=0) by Sammy(uid=1000)
+2025-07-08T13:57:32.003437+00:00 Sammy sudo: pam_unix(sudo:session): session closed for user root
+2025-07-08T14:21:01.195971+00:00 Sammy sudo:    Sammy : TTY=pts/0 ; PWD=/home/Sammy ; USER=root ; COMMAND=/usr/bin/systemctl status ssh
+2025-07-08T14:21:01.198561+00:00 Sammy sudo: pam_unix(sudo:session): session opened for user root(uid=0) by Sammy(uid=1000)
+2025-07-08T14:21:13.772901+00:00 Sammy sudo: pam_unix(sudo:session): session closed for user root
+2025-07-08T14:27:45.605618+00:00 Sammy sudo:    Sammy : TTY=pts/0 ; PWD=/home/Sammy ; USER=root ; COMMAND=/usr/bin/systemctl start ssh
+2025-07-08T14:27:45.615547+00:00 Sammy sudo: pam_unix(sudo:session): session opened for user root(uid=0) by Sammy(uid=1000)
+2025-07-08T14:27:45.753111+00:00 Sammy sudo: pam_unix(sudo:session): session closed for user root
+2025-07-09T19:25:42.563654+00:00 Sammy sudo:    Sammy : TTY=pts/0 ; PWD=/home/Sammy ; USER=root ; COMMAND=/usr/sbin/adduser protecteduser
+2025-07-09T19:25:42.565661+00:00 Sammy sudo: pam_unix(sudo:session): session opened for user root(uid=0) by Sammy(uid=1000)
+2025-07-09T19:27:03.489587+00:00 Sammy sudo: pam_unix(sudo:session): session closed for user root
+2025-07-09T19:28:03.282263+00:00 Sammy sudo:    Sammy : TTY=pts/0 ; PWD=/home/Sammy ; USER=root ; COMMAND=/usr/sbin/usermod -l protecteduser
+2025-07-09T19:28:03.284343+00:00 Sammy sudo: pam_unix(sudo:session): session opened for user root(uid=0) by Sammy(uid=1000)
+2025-07-09T19:28:03.301269+00:00 Sammy sudo: pam_unix(sudo:session): session closed for user root
+2025-07-09T19:28:49.499088+00:00 Sammy sudo:    Sammy : TTY=pts/0 ; PWD=/home/Sammy ; USER=root ; COMMAND=/usr/sbin/ufw default deny incoming
+2025-07-09T19:28:49.507138+00:00 Sammy sudo: pam_unix(sudo:session): session opened for user root(uid=0) by Sammy(uid=1000)
+2025-07-09T19:28:50.920203+00:00 Sammy sudo: pam_unix(sudo:session): session closed for user root
+2025-07-09T19:29:13.015150+00:00 Sammy sudo:    Sammy : TTY=pts/0 ; PWD=/home/Sammy ; USER=root ; COMMAND=/usr/sbin/ufw allow ssh
+2025-07-09T19:29:13.020228+00:00 Sammy sudo: pam_unix(sudo:session): session opened for user root(uid=0) by Sammy(uid=1000)
+2025-07-09T19:29:13.208690+00:00 Sammy sudo: pam_unix(sudo:session): session closed for user root
+2025-07-09T19:29:35.788691+00:00 Sammy sudo:    Sammy : TTY=pts/0 ; PWD=/home/Sammy ; USER=root ; COMMAND=/usr/sbin/ufw allow 8000
+2025-07-09T19:29:35.791251+00:00 Sammy sudo: pam_unix(sudo:session): session opened for user root(uid=0) by Sammy(uid=1000)
+2025-07-09T19:29:36.105736+00:00 Sammy sudo: pam_unix(sudo:session): session closed for user root
+2025-07-09T19:29:50.986635+00:00 Sammy sudo:    Sammy : TTY=pts/0 ; PWD=/home/Sammy ; USER=root ; COMMAND=/usr/sbin/ufw enale
+2025-07-09T19:29:50.988560+00:00 Sammy sudo: pam_unix(sudo:session): session opened for user root(uid=0) by Sammy(uid=1000)
+2025-07-09T19:29:51.121129+00:00 Sammy sudo: pam_unix(sudo:session): session closed for user root
+2025-07-11T17:37:53.105550+00:00 Sammy sudo: protecteduser : user NOT in sudoers ; TTY=pts/0 ; PWD=/home/protecteduser ; USER=root ; COMMAND=/usr/sbin/ufw default deny incoming
+2025-07-11T17:56:03.237524+00:00 Sammy sudo:    Sammy : TTY=pts/0 ; PWD=/home/Sammy ; USER=root ; COMMAND=/usr/bin/tail -n 15 /var/log/auth.log
+2025-07-11T17:56:03.247110+00:00 Sammy sudo: pam_unix(sudo:session): session opened for user root(uid=0) by Sammy(uid=1000)
+2025-07-11T17:56:03.247360+00:00 Sammy sudo: pam_unix(sudo:session): session closed for user root
+2025-07-11T18:10:58.199359+00:00 Sammy sudo:    Sammy : TTY=pts/0 ; PWD=/home/Sammy ; USER=root ; COMMAND=/usr/bin/ls /var/log/auth.log
+2025-07-11T18:10:58.208634+00:00 Sammy sudo: pam_unix(sudo:session): session opened for user root(uid=0) by Sammy(uid=1000)
+2025-07-11T18:10:58.208750+00:00 Sammy sudo: pam_unix(sudo:session): session closed for user root
+2025-07-11T18:12:29.159872+00:00 Sammy sudo:    Sammy : TTY=pts/0 ; PWD=/home/Sammy ; USER=root ; COMMAND=/usr/bin/tail -n 15 /var/log/auth.log
+2025-07-11T18:12:29.162973+00:00 Sammy sudo: pam_unix(sudo:session): session opened for user root(uid=0) by Sammy(uid=1000)
+2025-07-11T18:12:29.166980+00:00 Sammy sudo: pam_unix(sudo:session): session closed for user root
+2025-07-11T18:13:30.411232+00:00 Sammy sudo:    Sammy : TTY=pts/0 ; PWD=/home/Sammy ; USER=root ; COMMAND=/usr/bin/grep sudo /var/log/auth.log
+2025-07-11T18:13:30.413621+00:00 Sammy sudo: pam_unix(sudo:session): session opened for user root(uid=0) by Sammy(uid=1000)
+2025-07-11T18:13:30.426512+00:00 Sammy sudo: pam_unix(sudo:session): session closed for user root
+2025-07-11T18:21:31.437332+00:00 Sammy sudo:    Sammy : TTY=pts/0 ; PWD=/home/Sammy ; USER=root ; COMMAND=/usr/bin/grep sudo /var/log/auth.log
+2025-07-11T18:21:31.443625+00:00 Sammy sudo: pam_unix(sudo:session): session opened for user root(uid=0) by Sammy(uid=1000)
